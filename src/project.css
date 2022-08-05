@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.posts{
+    display: flex;
+    justify-content: center;
+}
+.table{
+    margin: 0 auto;
+    width: 62vw;
+}
+.form{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    outline: none;
+    margin-right: 12px;
+}
+.comentInp{
+    outline: none;
+    margin-left: 12px;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
